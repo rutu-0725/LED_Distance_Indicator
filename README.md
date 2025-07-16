@@ -1,5 +1,4 @@
 # LED_Distance_Indicator
-# LED_Distance_Light_Indicator
 
 This Arduino project uses an ultrasonic distance sensor (HC-SR04) to measure the distance of an object and indicates the distance using a series of LEDs. As the object moves closer to the sensor, more LEDs light up to show the distance range.
 
